@@ -1,6 +1,6 @@
 # HSE 2025 | SQL for Data Analysis
 
-The course is designed for students of the programm "Data Analysis for Goverment"
+The course is designed for students of the programm "Data Analysis for Goverment and Society"
 
 - Lecture and seminar materials are stored in corresponding folders /Week n
 - All communications for the course are held [here](https://t.me/+3BhrMB6k1Uc3NjM6)
