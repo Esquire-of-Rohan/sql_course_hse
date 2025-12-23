@@ -2,6 +2,9 @@
 
 The course is designed for students of the programm "Data Analysis for Goverment"
 
+- Lecture and seminar materials are stored in corresponding folders /Week n
+- All communications for the course are held [here](https://t.me/+3BhrMB6k1Uc3NjM6)
+
 ## Syllabus
 - [Week 1](https://github.com/Esquire-of-Rohan/sql_course_hse/tree/main/Week1) | **Relational databases**
 
