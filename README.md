@@ -22,6 +22,9 @@ The course is designed for students of the programm "Data Analysis for Goverment
 
 - Week 8
 
+## Database
+Throughout the course we will be working with [Pagila database](https://github.com/devrimgunduz/pagila?tab=readme-ov-file). It represents a storage of various entities related to a DVD rental store.
+
 ## Author of the course
 [Ilya Lyapin](https://www.hse.ru/org/persons/305097813/)
 
