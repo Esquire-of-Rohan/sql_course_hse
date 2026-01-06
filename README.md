@@ -24,6 +24,7 @@ The course is designed for students of the programm "Data Analysis for Goverment
 
 ## Database
 Throughout the course we will be working with [Pagila database](https://github.com/devrimgunduz/pagila?tab=readme-ov-file). It represents a storage of various entities related to a DVD rental store.
+You can find all the info about its structure [here](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
 
 ## Author of the course
 [Ilya Lyapin](https://www.hse.ru/org/persons/305097813/)
